@@ -1,5 +1,6 @@
+<p align="center"> <img width:="auto" height ="250" src="https://user-images.githubusercontent.com/30196774/201555137-22058273-0698-4294-9a65-df15d68b8a59.png"> </p>
 <h1 align="center">Hi 👋, I'm N0rule</h1>
-<h3 align="center">Tech Enthusiast from Ukraine</h3>
+<h3 align="center">Tech Enthusiast from <img width:="auto" height ="15" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"><b>Ukraine</b></h3>
 
 - 🔭 I’m currently working on [Discord Bot](https://github.com/N0rule/Syndicate-bot.git)
 
